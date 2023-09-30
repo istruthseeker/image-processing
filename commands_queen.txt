@@ -1,0 +1,1 @@
+for N in {1..8}; do ./util/align-dlib.py piggydata/taylor align outerEyesAndNose piggydata/raw --size 96 & done
