@@ -1,0 +1,26 @@
+<annotation>
+    <folder>QUEEN</folder>
+    <filename>Link of image</filename>
+    <path>Link of image</path>
+    <source>
+        <database>Unknow</database>
+    </source>
+    <size>
+        <width>321</width>
+        <height>321</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>name of student</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>0</ymin>
+            <xmax>321</xmax>
+            <ymax>321</ymax>
+        </bndbox>
+    </object>
+</annotation>
